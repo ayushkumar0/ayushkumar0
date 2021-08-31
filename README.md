@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushkumar0
 - 👀 I’m interested in computer language 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Android development 
 - 📫 How to reach me https://www.linkedin.com/in/ayush-kumar-55a425202/
 
 <!---
