@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">I am a passionate web developer who is proficient in HTML, CSS, and JavaScript. In addition to my web development skills, I'm also proficient in Java ☕️ and have a 5-star rating on HackerRank 🌟. I'm excited to continue learning and growing my skills as a developer, and I'm always open to new opportunities and collaborations. Feel free to reach out and connect with me! 🤝</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkumar0" alt="ayushkumar0" /></a> </p>
-
 - 🌱 I’m currently learning **I am currently expanding my skillset by learning back-end technologies such as Node.js, Express, and MongoDB. By the end of this week, I hope to have completed my back-end learning and move on to learning React ⚛️.**
 
 - 📫 How to reach me **akayushkumar03@gmail.com**
