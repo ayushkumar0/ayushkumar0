@@ -16,12 +16,15 @@ I'm excited to continue learning and growing my skills as a developer, and I'm a
 ## 🛠 Skills
  
 Programming languages
+
 [![My Skills](https://skillicons.dev/icons?i=java,&theme=light)](https://skillicons.dev)
 
 Frontend
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 Backend
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,aws)](https://skillicons.dev)
 
 
