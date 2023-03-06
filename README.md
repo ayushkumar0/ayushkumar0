@@ -17,7 +17,7 @@ I'm excited to continue learning and growing my skills as a developer, and I'm a
  
 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,&theme=light)](https://skillicons.dev)
 
 Frontend
 
