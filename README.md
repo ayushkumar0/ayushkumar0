@@ -36,3 +36,6 @@ Email: [akyushkumar03@gmail.com]
 LinkedIn: [https://www.linkedin.com/in/ak-ayush-kumar/] 
 
 Portfolio: [https://ayushkumar0.github.io/portfolio-website/]
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayushkumar0&theme=radical)](https://git.io/streak-stats) 
