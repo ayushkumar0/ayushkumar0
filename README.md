@@ -35,5 +35,6 @@ Email: [akyushkumar03@gmail.com]
 
 LinkedIn: [https://www.linkedin.com/in/ak-ayush-kumar/] 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkumar0&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayushkumar0&theme=radical)](https://git.io/streak-stats) 
